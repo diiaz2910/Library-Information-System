@@ -1,0 +1,19 @@
+PRINTING INVOICE...............
+-------
+
+BOOKS                                              QUANTITY
+-------------------------------------------------------------
+In Search of Lost Time by Marcel Proust.......................0
+Ulysses by James Joyce........................................3
+Don Quixote by Miguel de Cervantes............................0
+One Hundred Years of Solitude by Gabriel Garcia Marquez.......0
+The Great Gatsby by F. Scott Fitzgerald.......................0
+Moby Dick by Herman Melville..................................0
+War and Peace by Leo Tolstoy..................................0
+Hamlet by William Shakespeare.................................0
+The Odyssey by Homer..........................................0
+Madame Bovary by Gustave Flaubert.............................0
+...............................Subtotal:       $30
+...............................Total Payment:  $0
+...............................Payment Method:  Card
+
